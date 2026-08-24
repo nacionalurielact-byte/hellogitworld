@@ -1,1 +1,1 @@
-Git is a version control system. It tracks changes in code. It makes collaboration easy.
+Git is a version control system. It tracks changes in code. It makes collaborative easy.
