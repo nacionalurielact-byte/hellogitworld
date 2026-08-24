@@ -1,1 +1,2 @@
-Lab Session Completed by Uriel Naciona
+Lab Session Completed by Uriel Nacional
+Updated directly via web interface.
